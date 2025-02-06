@@ -24,7 +24,7 @@ None
 
 ```json
 {
-  "email": "somkeneodikpo@example.com",
+  "email": "aflyinghobos2nd@gmail.com",
   "current_datetime": "2024-10-27T12:34:56Z",
   "github_url": "[https://github.com/icedoutskay/simplle-api](https://github.com/icedoutskay/simplle=api)"
 }

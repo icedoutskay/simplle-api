@@ -7,7 +7,7 @@ app.use(cors());
 
 app.get('/', (req, res) => {
     const data = {
-        "email": "somkeneodikpo@gmail.com", 
+        "email": "aflyinghobos2nd@gmail.com", 
         "current_datetime": moment().utc().format('YYYY-MM-DDTHH:mm:ssZ'), 
         "github_url": "https://github.com/icedoutskay/simplle-api" 
     };
